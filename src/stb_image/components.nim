@@ -20,3 +20,4 @@ const
   # Red, Green, Blue (and alpha)
   RGB* = 3              # (used by all)
   RGBA* = 4             # (used by all)
+
